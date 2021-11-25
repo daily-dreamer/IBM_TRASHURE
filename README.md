@@ -28,9 +28,16 @@ Vlog during creation of the trashure app:[Video](https://youtu.be/hGidtdKPhkY)
 
 ### Navigation
 
+![](https://github.com/daily-dreamer/IBM_TRASHURE/blob/851cf5ecfb0df3ea8098b5b2c61500971b761043/App_img/Map%201.png)
 ### Request
 
+![](https://github.com/daily-dreamer/IBM_TRASHURE/blob/851cf5ecfb0df3ea8098b5b2c61500971b761043/App_img/Request%201.png)
 ### Menu
+
+![](https://github.com/daily-dreamer/IBM_TRASHURE/blob/851cf5ecfb0df3ea8098b5b2c61500971b761043/App_img/Menu%201.png)
+
+#### Profile
+![](https://github.com/daily-dreamer/IBM_TRASHURE/blob/851cf5ecfb0df3ea8098b5b2c61500971b761043/App_img/Profile%20Settings.png)
 
 
 
