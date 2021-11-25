@@ -1,10 +1,12 @@
 # IBM_TRASHURE
 Contains prototype,documentations and flutter app for waste management system
 
-Recording of the app:https://youtu.be/7flQNPVBzmM
 
+## App recording
+Recording of the app:[Video](https://youtu.be/7flQNPVBzmM)
 
-Vlog during creation of the trashure app:https://youtu.be/hGidtdKPhkY
+## Vlog
+Vlog during creation of the trashure app:[Video](https://youtu.be/hGidtdKPhkY)
 
 
 
