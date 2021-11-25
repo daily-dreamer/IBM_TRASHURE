@@ -3,12 +3,23 @@ Contains prototype,documentations and flutter app for waste management system
 
 
 ## App recording
-Recording of the app:[Video](https://youtu.be/7flQNPVBzmM)
+Recording of the app:[You tube link](https://youtu.be/7flQNPVBzmM)
+
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/7flQNPVBzmM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+
+  
+  
+
 
 [Download](https://github.com/daily-dreamer/IBM_TRASHURE/blob/9a2564b017957afe1d3d0edbdd2e06f494848d26/Video%20of%20app.mp4)
 
 ## Vlog
-Vlog during creation of the trashure app:[Video](https://youtu.be/hGidtdKPhkY)
+Vlog during creation of the trashure app:[You tube link](https://youtu.be/hGidtdKPhkY)
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/hGidtdKPhkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
 
 [Download](https://github.com/daily-dreamer/IBM_TRASHURE/blob/9a2564b017957afe1d3d0edbdd2e06f494848d26/Vlog_Experience.mp4)
 
